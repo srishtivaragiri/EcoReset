@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+.vite/
+
+# Outputs (certificates/QRs)
+backend/outputs/*.pdf
+backend/outputs/*.png
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
